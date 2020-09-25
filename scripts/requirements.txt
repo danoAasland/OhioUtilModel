@@ -3,7 +3,7 @@ numpy==1.16.2
 pandas==0.24.2
 sklearn==0.0
 tensorboard==2.1.0
-tensorflow==2.1.0
+tensorflow==2.1.2
 tensorflow-docs==0.0.0
 tensorflow-estimator==2.1.0
 Keras-Applications==1.0.8
