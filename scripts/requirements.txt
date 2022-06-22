@@ -1,5 +1,5 @@
 pathlib2==2.3.5
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 sklearn==0.0
 tensorboard==2.1.0
